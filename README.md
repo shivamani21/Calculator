@@ -1,6 +1,7 @@
 
 # Calculator using HTML, CSS, and JavaScript
 
+### Live Demo: https://akhilbandari28.github.io/Calculator/
 ### Project Description:
 This project is a simple, web-based calculator created using HTML, CSS, and JavaScript. It includes basic arithmetic operations and a user-friendly interface, designed to provide accurate calculations directly from a web browser.
 
